@@ -4,7 +4,7 @@
 
 **Senior Software & Database Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-lateef-ansari/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lateefansari91@hotmail.com)
 [![Location](https://img.shields.io/badge/Kuala_Lumpur,_Malaysia-00B4AB?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
