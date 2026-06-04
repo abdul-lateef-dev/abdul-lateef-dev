@@ -82,7 +82,7 @@ I write clean, performant code, obsess over database optimization, and enjoy men
 `C# .NET 8` `ASP.NET Core` `Entity Framework Core` `SQL Server` `JWT Auth` `Swagger`
 
 ---
-### 🔷 [Inventory & ERP Manager](./InventoryAPI)
+### 🔷 [Inventory & ERP Manager](https://github.com/abdul-lateef-dev/InventoryAPI)
 > CRUD API for products, categories, inventory, and Shopify-style order sync. Mirrors real ERP integration work from Cloud Tenants.
 
 `C# .NET 8` `Web API` `SQL Server` `Entity Framework` `Repository Pattern` `Swagger`
